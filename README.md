@@ -5,7 +5,7 @@ In this homework assignment, you will be applying what you've learned by creatin
 
 ## Requirements
 1. Clone this repository
-2. Create a new React project using the instructions from the lecture
+2. Create a new React project using the instructions from the lecture (DON'T FORGET TO ADD A FOLDER FOR YOUR REACT PROJECT TO GO IN!!)
 3. Create a clone (mockup) of your Instagram profile using React 👩🏾‍💻
 4. Submit by making a commit AND ADDING A PICTURE/VIDEO TO THE COMMIT SECTION 🥳
 
